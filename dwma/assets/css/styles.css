@@ -1,0 +1,34 @@
+/*
+
+Colors
+
+Orange: #E8A300
+Red: #88000A
+Black: #110907
+
+
+*/
+
+#logo {
+    height: 45px;
+    width: 100%;
+    margin-top: -13px;
+}
+
+.jumbotron {
+    background: url('../imgs/school.png');
+    background-size: 100% 100%;
+    height: 500px;
+}
+
+#banner .jumbotron .well {
+    background-color: rgba(250,250,250,0.5);
+    border: 0px;
+    color: #000;
+}
+
+#about {
+    margin-top: -30px;
+    background-color: #110907;
+    color: #88000A;
+}
